@@ -1,0 +1,25 @@
+.blue {
+    color: blue;
+}
+
+.crimson {
+    color:crimson;
+}
+
+.green {
+    color: darkgreen;
+}
+
+.red {
+    border: 2px solid red;
+    color: red;
+}
+
+table {
+    border: 2px solid black;
+}
+
+td {
+    border: 2px solid black;
+    text-align: center;
+}
